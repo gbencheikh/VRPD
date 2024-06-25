@@ -1,0 +1,45 @@
+Contributing to the VRP with Drones Project
+
+First off, thank you for considering contributing to our project! Your contributions help improve the project and make it more valuable to the community.
+
+How to Contribute
+If you find a bug in the project, please report it by opening an issue on GitHub. Please include the following details:
+
+* A clear and descriptive title.
+* A detailed description of the bug.
+* Steps to reproduce the bug.
+* Any relevant screenshots or log files.
+
+Suggesting Enhancements
+We welcome suggestions for new features and enhancements. If you have an idea, please open an issue on GitHub and include:
+
+* A clear and descriptive title.
+* A detailed description of the enhancement.
+* Any relevant examples or references.
+
+Submitting Code Changes
+1. Fork the Repository: Create your own fork of the repository by clicking the "Fork" button on the GitHub page.
+2. Clone the Repository: Clone your fork to your local machine using:
+    git clone https://github.com/gbencheikh/VRPD.git
+3. Create a Branch: Create a new branch for your changes:
+    git checkout -b feature-name
+4. Make Changes: Make your changes to the code.
+5. Commit Changes: Commit your changes with a descriptive commit message:
+    git commit -m "Description of changes"
+6. Push Changes: Push your changes to your fork:
+    git push origin feature-name
+7. Create a Pull Request: Go to the original repository and create a pull request. 
+    Provide a clear and descriptive title and description for your pull request.
+
+Code Style and Guidelines
+Follow the existing code style and conventions.
+Write clear and concise comments.
+Update documentation as necessary.
+Ensure that your code passes all tests.
+
+Testing
+Before submitting your code, make sure that all existing tests pass.
+If you add new features, please include corresponding tests.
+
+Code of Conduct
+Please adhere to the Code of Conduct in all interactions with the project.
