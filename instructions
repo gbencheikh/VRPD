@@ -1,0 +1,14 @@
+1- Create virtual environment 'VRPD': 
+python -m venv VRPD
+
+2- Activate the environment: 
+.\VRPD\Scripts\activate
+
+3- install ipykernel: 
+pip install ipykernel
+
+4- install virtual environment in kernel:
+python -m ipykernel install --name=VRPD
+
+5- associate project to virtual environment:
+manually select 'VRPD' kernel
