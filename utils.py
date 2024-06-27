@@ -78,7 +78,7 @@ def drawGraph(instance, solution, saveSolution, showGraph):
     """
     # Création du graphe
 
-    fig, grp = plt.subplots(figsize=(20, 10))  
+    fig, grp = plt.subplots(figsize=(10, 5))  
     plt.title("VPRD",fontsize=25 )
 
     G = nx.DiGraph()

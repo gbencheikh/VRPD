@@ -7,6 +7,5 @@ The project addresses the challenge of minimizing the total delivery time and co
 
 Project initiation date: June 25, 2024
 
-
-
+Please read instructions file for creating virtual environment. 
 
